@@ -1,4 +1,3 @@
-import React, { useLayoutEffect } from "react";
 import { View, Text, Button, StyleSheet, Alert } from "react-native";
 
 export default function Screen2() {
